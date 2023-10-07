@@ -163,3 +163,39 @@
     -   Sentencia de control if, if / else, ifelse
 
     -   Concatenar variables para mostrar resultados [ paste0() ]
+
+    -   Ejemplo de funcion
+
+    -   Ciclos for
+
+        -   en un vector
+
+        -   en un rango
+
+        -   en una cadena de valores
+
+    -   Ejemplo ciclo for con una distribucion uniforme, con su histograma
+
+    -   Ciclo while
+
+    -   Funcion factorial utilizando if else, con ciclo while
+
+    -   Switch
+
+-   Practica05.R
+
+    -   Descripcion de una base de datos
+
+        -   validacion de datos
+
+    -   Carga de datos (datasets)
+
+    -   Seleccion de datos en dataset mediante filtros directo en el dataset
+
+    -   Seleccion de datos en dataset mediante instruccion subset
+
+    -   Mezcla de datasets ( instruccion merge)
+
+        -   Cuando existe correspondencia entre los valores de las columnas
+
+        -   Cuando no existe correspondencia entre los valores de las columnas
