@@ -191,7 +191,7 @@ data$Size <- IrisSize; data
 # 4            4.6         3.1          1.5         0.2     setosa Small
 # 5            5.0         3.6          1.4         0.2     setosa Small
 Species
-table04<- table(data$Species,data$Size); table04
+tabla04<- table(data$Species,data$Size); table04
 # Big Small
 # setosa       1    49
 # versicolor  29    21
@@ -210,7 +210,11 @@ prop.table(tabla03,1)*100
 # 100   100 
 
 # Proporcionalidad por columna (2)
-round(prop.table(tabla03,2)*100,2)
+round(prop.table(tabla04, 2) * 100, 2)
+# Big Small
+# setosa      1.30 67.12
+# versicolor 37.66 28.77
+# virginica  61.04  4.11
 
 cumsum(tabla03)
 # Big Small 
