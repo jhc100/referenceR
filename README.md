@@ -199,3 +199,69 @@
         -   Cuando existe correspondencia entre los valores de las columnas
 
         -   Cuando no existe correspondencia entre los valores de las columnas
+
+-   Practica06.R
+
+    -   Repaso general
+
+        -   Calculo de la media (mean), discriminando los valores NA (na.rm)
+
+        -   Calculo de la media (mean), discriminar los extremos (trim), descarte de quantiles extremos
+
+        -   Calculo de la mediana (median)
+
+        -   Uso de libreria "modeest" para visualizar la moda
+
+            -   Moda mediante "mlv", con metodo "mfv"
+
+        -   Calculo de varianza (var)
+
+        -   Calculo de desviacion estandar (sd)
+
+        -   Calculo de raiz cuadrada (sqrt)
+
+        -   Creacion de archivo csv (write.csv)
+
+        -   Creacion de archivo de excel, utilizando libreria xlsx (write.xlsx)
+
+        -   Creacion de una tabla tomando una propiedad del dataframe (table)
+
+            -   Tabla de una propiedad numerica
+
+            -   Tabla de una propiedad tipo factor
+
+        -   Ordenamiento de la tabla (sort)
+
+        -   Valor minimo
+
+        -   Valor maximo
+
+        -   Rango
+
+        -   Creacion de funcion para calculo de rango
+
+        -   Uso de sapply a un dataframe sapply(data, Rango)
+
+        -   Funcion quantile
+
+        -   Funcion IQR, Medida inter quantil
+
+        -   Aplicacion de una funcion mediante agrupacion (by)
+
+        -   Creacion de tabla de contingencia
+
+        -   Creacion de una nueva columna utilizando ifelse
+
+        -   Proporcionalidad en una tabla (prop.table)
+
+        -   Suma acumulada (cumsum)
+
+        -   Libreria psych
+
+            -   Simetria : Funcion skew
+
+            -   Curtosi: Funcion kurtosi
+
+            -   Histogramas
+
+            -   Test de Shapiro, para validar normalidad
