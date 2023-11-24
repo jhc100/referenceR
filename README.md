@@ -265,3 +265,39 @@
             -   Histogramas
 
             -   Test de Shapiro, para validar normalidad
+
+Practica07.R
+
+-   Gráficos (ggplot)
+
+    -   De barras
+
+    -   Histogramas
+
+    -   Boxplot
+
+    -   Puntos
+
+Practica08.R
+
+-   Repaso
+
+    -   Carga de datos de una fuente en internet
+
+    -   Filtrado por selección directa de la fuente
+
+    -   Selecci´n utilizando subset
+
+    -   Selección utilizando dplyr::filter
+
+    -   Pipe
+
+Practica09.R
+
+-   Gráfica (histograma)
+
+-   AIC (Criterio de comparacion Akaike)
+
+-   BIC (Criterio de comparacion Bayesiano)
+
+-   Gráfica: Ajuste de distribución

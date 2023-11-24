@@ -76,6 +76,10 @@ ggplot(iris) +
 
 boxplot(Sepal.Length)
 
+
+
+
+
 boxplot(Sepal.Length ~ Species)
 
 ggplot(iris) +
